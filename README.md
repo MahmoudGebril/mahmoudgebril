@@ -83,5 +83,5 @@ Demo video available upon request.
 ## Contact
 
 Email: mahmoudshark200327@gmail.com  
-LinkedIn: (add link)  
+LinkedIn: ([add link](https://www.linkedin.com/in/mahmoud-gebril-28447424b/))  
 Location: Egypt (Open to Remote)
