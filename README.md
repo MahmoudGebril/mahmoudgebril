@@ -1,87 +1,77 @@
-# Mahmoud Gebril
+# Mahmoud
 
-Angular Frontend Engineer specializing in scalable web platforms and admin-driven architectures.
-
-Focused on building modular Angular applications, business-configurable dashboards, and cross-platform mobile systems.
-
-Currently open to remote freelance and full-time opportunities.
+Computer Science Student | AI Automation Engineer | Odoo Developer
 
 ---
 
-## What I Build
+## About
 
-- Production-ready Angular applications
-- Admin panels for business-side configuration
-- REST API-integrated platforms
-- Cross-platform mobile apps using Ionic
-- Reusable and scalable component architectures
+I design and build intelligent systems that automate business processes and improve operational efficiency.
 
----
+My work focuses on combining software engineering with AI-driven automation to help businesses reduce manual work, streamline workflows, and scale effectively.
 
-## Featured Production Work
-
-### GoodLife Insurance Platform (Private)
-
-A modular Angular insurance web platform with secure authentication and dynamic policy management.
-
-- Reactive forms & route guards
-- REST API integration
-- Reusable architecture design
-- Production deployment
-
-Repository is private due to company policy.  
-Demo video available upon request.
+I am currently pursuing a degree in Computer Science while actively developing real-world solutions across automation, web development, and ERP systems.
 
 ---
 
-### GoodLife Admin Panel (Private)
+## Expertise
 
-A configurable admin dashboard allowing non-technical administrators to edit endpoint-driven customer data.
-
-- Role-based access control
-- Structured data management workflows
-- Reduced long-term developer dependency
-- Secure API communication
-
-Repository is private due to company policy.  
-Demo video available upon request.
+* AI Automation Systems
+* Web Application Development (Angular)
+* Data Extraction and Web Scraping
+* Business Process Automation
+* Odoo Development and Customization
 
 ---
 
-### GoodLife Mobile App (Private)
+## Technical Skills
 
-Cross-platform mobile app built using Ionic + Angular, reusing business logic from web platform.
+**Frontend**
+Angular, TypeScript, SCSS
 
-- Shared service layer
-- API-driven design
-- Optimized mobile interactions
+**Backend**
+Python, Node.js
 
-Repository is private due to company policy.  
-Demo video available upon request.
+**Automation & Data**
+Web scraping, APIs, workflow automation
 
----
+**ERP Systems**
+Odoo (custom modules, business workflows)
 
-## Tech Stack
-
-- Angular
-- TypeScript
-- RxJS
-- Ionic / Capacitor
-- REST APIs
-- Git
+**Tools & Practices**
+Git, GitHub, REST APIs, modular architecture
 
 ---
 
-## Currently Improving
+## Current Focus
 
-- Advanced Angular architecture patterns
-- Performance optimization techniques
-- Scalable frontend system design
+* Building an AI automation agency
+* Developing scalable automation systems
+* Enhancing expertise in Odoo and enterprise solutions
+* Designing high-performance web applications
+
+---
+
+## Projects & Work
+
+Selected work includes:
+
+* AI-based automation workflows for business operations
+* Data scraping and processing systems
+* Custom Angular applications with modern UI/UX
+* Odoo modules tailored to business needs
 
 ---
 
 ## Contact
 
-Email: mahmoudshark200327@gmail.com  
-LinkedIn: ([link](https://www.linkedin.com/in/mahmoud-gebril-28447424b/))  
-Location: Egypt (Open to Remote)
+Instagram: https://www.instagram.com/mahmoudgebril91/
+X (Twitter): https://x.com/MahmoudGebril91
+TikTok: https://www.tiktok.com/@mahmoudgebril91
+GitHub: https://github.com/MahmoudGebril
+
+---
+
+## Vision
+
+To build systems that replace repetitive work, optimize business processes, and create measurable impact through automation.
